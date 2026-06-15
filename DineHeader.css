@@ -1,0 +1,32 @@
+.dine-header {
+  background: linear-gradient(to right, #ff7b00, #ffb347);
+
+  padding: 15px 40px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+
+.dine-header h2 {
+  color: white;
+  margin: 0;
+}
+
+.dine-header nav a {
+  color: white;
+
+  text-decoration: none;
+
+  margin-left: 20px;
+
+  font-weight: bold;
+
+  transition: 0.3s;
+}
+
+.dine-header nav a:hover {
+  color: black;
+}

@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+
+  font-family: Arial, sans-serif;
+
+  background-image: url("https://images.unsplash.com/photo-1490645935967-10de6ba17061");
+
+  background-size: cover;
+
+  background-position: center;
+
+  background-attachment: fixed;
+}
+
+.page {
+  padding: 40px;
+
+  text-align: center;
+
+  background-color: rgba(255,255,255,0.85);
+
+  margin: 20px;
+
+  border-radius: 10px;
+}

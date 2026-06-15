@@ -1,0 +1,45 @@
+.details-page {
+  padding: 30px;
+
+  text-align: center;
+
+  background-color: rgba(255, 255, 255, 0.85);
+
+  margin: 30px auto;
+
+  width: 80%;
+
+  border-radius: 15px;
+}
+
+.details-page img {
+  width: 350px;
+
+  border-radius: 10px;
+
+  margin: 20px 0;
+
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.details-page button {
+  padding: 10px 20px;
+
+  background: orange;
+
+  color: white;
+
+  border: none;
+
+  border-radius: 5px;
+
+  cursor: pointer;
+}
+
+.details-page p {
+  line-height: 1.8;
+
+  font-size: 18px;
+
+  color: #222;
+}
